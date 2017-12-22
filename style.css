@@ -1,0 +1,32 @@
+.row-comment textarea {
+    width: 100%;
+    height: 84px;
+    min-height: 84px;
+    max-height: 150px;
+    padding: 10px;
+    line-height: 1.5em;
+}
+
+.row-comment button {
+    cursor: pointer;
+}
+
+.media {
+    border-top: 1px solid #bfbfbf;
+    padding-top: 20px;
+}
+
+.media .comment-text {
+    font-size: 0.85em;
+    text-align: justify;
+}
+
+.media .name span {
+    font-size: 12px;
+}
+
+.media .buttons a {
+    color: #acacac;
+    margin-left: 20px;
+    font-size: 0.9em;
+}
